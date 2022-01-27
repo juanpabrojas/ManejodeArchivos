@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Arroz",
+    "price": 150,
+    "thumbnail": "http://www.arroz.com",
+    "id": 1
+  },
+  {
+    "title": "Lentejas",
+    "price": 200,
+    "thumbnail": "http://www.lentejas.com",
+    "id": 2
+  },
+  {
+    "title": "Pollo",
+    "price": 300,
+    "thumbnail": "http://www.pollo.com",
+    "id": 3
+  },
+  {
+    "title": "Edulcorante",
+    "price": 550,
+    "thumbnail": "http://www.edulcorante.com",
+    "id": 4
+  },
+]
